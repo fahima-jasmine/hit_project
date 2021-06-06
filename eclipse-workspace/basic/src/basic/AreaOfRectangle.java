@@ -10,6 +10,7 @@ public class AreaOfRectangle {
 		 double width = scanner.nextDouble();       
 		 double area = length*width; 
 		 System.out.println("Area of Rectangle is:"+area); 
+		 scanner.close();
 		 } 
 	 }
 

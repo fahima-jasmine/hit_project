@@ -7,7 +7,8 @@ public class AreaOfSquare {
 	 Scanner scanner = new Scanner(System.in);         
 	 double side = scanner.nextDouble();       
 	 double area = side*side;   
-	 System.out.println("Area of Square is: "+area);   
+	 System.out.println("Area of Square is: "+area);
+	 scanner.close();
     }
   }
 
