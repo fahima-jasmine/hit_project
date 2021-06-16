@@ -6,7 +6,7 @@ public class QuotientAndRemainder {
 		 int quotient = number1 / number2;    
 		 int remainder = number1 % number2;   
 		 System.out.println("Quotient is: " + quotient); 
-		 System.out.println("Remainder is: " + remainder);  
+		 System.out.println("Remainder is: " + remainder);   
 		 } 
 
 }
